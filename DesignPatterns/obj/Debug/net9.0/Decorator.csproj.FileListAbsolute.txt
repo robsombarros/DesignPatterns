@@ -1,0 +1,14 @@
+C:\Robson\Desenvolvimento\DotNet\DesignPatterns\DesignPatterns\obj\Debug\net9.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Robson\Desenvolvimento\DotNet\DesignPatterns\DesignPatterns\obj\Debug\net9.0\Decorator.AssemblyInfoInputs.cache
+C:\Robson\Desenvolvimento\DotNet\DesignPatterns\DesignPatterns\obj\Debug\net9.0\Decorator.AssemblyInfo.cs
+C:\Robson\Desenvolvimento\DotNet\DesignPatterns\DesignPatterns\obj\Debug\net9.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Robson\Desenvolvimento\DotNet\DesignPatterns\DesignPatterns\bin\Debug\net9.0\Decorator.exe
+C:\Robson\Desenvolvimento\DotNet\DesignPatterns\DesignPatterns\bin\Debug\net9.0\Decorator.deps.json
+C:\Robson\Desenvolvimento\DotNet\DesignPatterns\DesignPatterns\bin\Debug\net9.0\Decorator.runtimeconfig.json
+C:\Robson\Desenvolvimento\DotNet\DesignPatterns\DesignPatterns\bin\Debug\net9.0\Decorator.dll
+C:\Robson\Desenvolvimento\DotNet\DesignPatterns\DesignPatterns\bin\Debug\net9.0\Decorator.pdb
+C:\Robson\Desenvolvimento\DotNet\DesignPatterns\DesignPatterns\obj\Debug\net9.0\Decorator.dll
+C:\Robson\Desenvolvimento\DotNet\DesignPatterns\DesignPatterns\obj\Debug\net9.0\refint\Decorator.dll
+C:\Robson\Desenvolvimento\DotNet\DesignPatterns\DesignPatterns\obj\Debug\net9.0\Decorator.pdb
+C:\Robson\Desenvolvimento\DotNet\DesignPatterns\DesignPatterns\obj\Debug\net9.0\Decorator.genruntimeconfig.cache
+C:\Robson\Desenvolvimento\DotNet\DesignPatterns\DesignPatterns\obj\Debug\net9.0\ref\Decorator.dll
