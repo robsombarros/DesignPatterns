@@ -64,12 +64,19 @@ Todos os projetos foram criados como Console Application em .Net 9.0
 ## 📚 Referências
 
 https://refactoring.guru/pt-br/design-patterns
+
 https://www.youtube.com/watch?v=db_1wmqlC4I
+
 https://www.youtube.com/watch?v=B4OPckrTBM0
+
 https://www.youtube.com/watch?v=XT9TjOy-0tg
+
 https://www.youtube.com/watch?v=cSFSTqzEg48
+
 https://www.youtube.com/watch?v=-gsuMWLxAko
+
 https://www.youtube.com/watch?v=534Nep9-qCg
+
 https://www.youtube.com/watch?v=u8JG3YVQ06I
 
 
